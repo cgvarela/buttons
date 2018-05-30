@@ -1,7 +1,7 @@
 {
   "name": "buttons",
   "description": "How many ways are there to build a button with Assemble? Many.",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "homepage": "https://github.com/assemble/buttons",
   "author": {
     "name": "Jon Schlinkert",
@@ -15,7 +15,7 @@
     "url": "https://github.com/assemble/buttons/issues"
   },
   "engines": {
-    "node": ">=0.8"
+    "node": ">=0.10"
   },
   "scripts": {
     "test": "grunt assemble"
